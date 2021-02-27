@@ -1,0 +1,9 @@
+{
+	"name" : "Hotel Management",
+	"description" : "School Based Project for Hotel Management",
+	"created" : "29/3/2021",
+	"completed" : "true",
+	"modules" : ["os"],
+	"hosting" : {"hosted" : "false"},
+	"code" : "HO-29032021-145332"
+}
